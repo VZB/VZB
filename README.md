@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Vitoria :)
+- 👀 I’m interested in Data Analytics and Data Science
+- 🌱 I’m currently learning about Machine Learning
+- 📫 How to reach me vizanini.vz@gmail.com
+- 😄 Pronouns: she/her
